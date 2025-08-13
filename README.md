@@ -1,11 +1,11 @@
 # TW-PMFGS
-- Matlab code for the paper: "TENSOR WHEEL COMPLETION WITH PARALLEL MATRIX FACTORIZATION AND GROUP SPARSITY SMOOTHNESS for HYPERSPECTRAL IMAGE RECOVERY".
+- Matlab code for the paper: "Tensor Wheel Completion with Parallel Matrix Factorization and Group Sparsity Smoothness for Hyperspectral Image Recovery".
 
 - Copyright: Xin Tian, Kun Xie, Jigang Wen
 
 
 ## Get started
-- Directly run: ``Demo_Pavia.m`` for an example on Pavia data.
+- Directly run: ``test.m`` for an example on Pavia data.
 
 
 ## Contact
